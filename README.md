@@ -19,7 +19,7 @@ Welcome to my official resume repository. I specialize in building high-performa
 * **GIF Automation Suite:** End-to-end YouTube to GIPHY pipeline.
 
 ## 📫 Contact & Connect
-* **LinkedIn:** [Your-LinkedIn-Profile(https://www.linkedin.com/in/k-r-hari-prajwal-655373256/)]
+* **LinkedIn:**https://www.linkedin.com/in/k-r-hari-prajwal-655373256/
 * **GitHub:** [@Hariprajwal](https://github.com/Hariprajwal)
 * **Email:** [Your-Email-Address]
 
